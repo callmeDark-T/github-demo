@@ -1,0 +1,1 @@
+Checking the newly created branch to create a merge command between the two branches.
